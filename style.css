@@ -1,0 +1,148 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.part1{
+    position: absolute;
+    width: 806px;
+    height: 191px;
+    left: 350px;
+    top: 99px;
+}
+.part1 h1{
+    font-family:sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 43px;
+    line-height: 130%;
+    text-align: center;
+    color: #050C26;   
+}
+
+.part1 p{
+font-family:serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 160%;
+text-align: center;
+color: #575859;
+
+}
+.part2{
+position: absolute;
+width: 618px;
+height: 435px;
+right: 718px;
+top: 300px;
+border-radius: 10px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+}
+.part3{
+position: absolute;
+width: 488px;
+height: 427px;
+left: 815px;
+top: 380px;
+}
+.part3 h1{
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom:2px;
+}
+.prog1> progress{
+border-radius: 20px;
+width: 488px;
+opacity: 0.3;
+border:10px solid #E41A1A;
+
+
+    
+}
+.proga1 progress{
+border-radius:20px ;
+width: 450px;
+border: 10px solid #E41A1A;
+position: absolute;
+top: 81px;
+}
+
+.prog2>progress{
+    border-radius: 20px;
+    width: 488px;
+    opacity: 0.3;
+    border: 10px solid #1a24b3;
+}
+    
+    
+.proga2 progress{
+    border-radius:20px ;
+    width: 475px;
+    border: 10px solid #1a24b3;
+    position: absolute;
+    top: 188px;
+    }
+    .prog3>progress{
+        border-radius: 20px;
+        width: 488px;
+        opacity: 0.3;
+        border: 10px solid#13bd2d;
+    }
+        
+        
+    .proga3 progress{
+        border-radius:20px ;
+        width: 393px; 
+        border: 10px solid #13bd2d;
+        position: absolute;
+        top: 290px;
+        }
+        .prog4>progress{
+            border-radius: 20px;
+            width: 488px;
+            opacity: 0.3;
+            border: 10px solid #eb8f26;
+        }
+            
+            
+        .proga4 progress{
+            border-radius:20px ;
+            width: 450px; 
+            border: 10px solid #eb8f26;
+            position: absolute;
+            top: 395px;
+            }
+
+            .parts1{
+                position: absolute;
+                width: 874px;
+                height: 195px;
+                left: 363px;
+                top: 1025px;
+            }
+            .parts1 h1{
+                font-family:sans-serif;
+                font-style: normal;
+                font-weight: 600;
+                font-size: 43px;
+                line-height: 130%;
+                text-align: center;
+                color: #050C26;   
+            }
+            .parts1 p{
+                font-family:serif;
+                font-style: normal;
+                font-weight: normal;
+                font-size: 18px;
+                line-height: 160%;
+                text-align: center;
+                color: #575859;
+            
+            }
+            .blog{
+                position: absolute;
+                top: 1261px;
+                left: 232px;
+            }
